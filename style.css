@@ -10,7 +10,7 @@ font-family: 'Fraunces', serif */
 body{
     font-family:'Montserrat', sans-serif ;
     background-color: hsl(30, 38%, 92%);
-    font-size: 14px;
+    font-size:0.9em;
     min-height: 100vh;
     /* 100vh yi araştır */
     display: flex;
@@ -52,14 +52,14 @@ body{
 
     text-transform: uppercase;
     letter-spacing: 3px;
-    font-size: 13px;
+    font-size: 0.9em;
     color: hsl(228, 12%, 48%);
     font-weight: 500;
 }
 
 .name{
     font-family:  'Fraunces', serif;
-    font-size: 34px;
+    font-size: 2em;
     line-height: 1em;
     color:  hsl(212, 21%, 14%);
 }
@@ -72,7 +72,7 @@ body{
 .current-price{
     font-family:  'Fraunces', serif;
     color: hsl(158, 36%, 37%);
-    font-size: 25px;
+    font-size: 2em;
     padding-right: 10px;
 }
 
@@ -80,6 +80,12 @@ body{
     color:hsl(228, 12%, 48%);
     text-decoration: line-through;
 }
+
+/* .old-price {
+    color:hsl(228, 12%, 48%);
+    text-decoration: line-through;
+} */
+
 
 .price{
     display: flex;
@@ -93,7 +99,7 @@ body{
     border:none;
     border-radius: 12px;
     color:white;
-    font-size:14px;
+    font-size:0.9em;
     font-weight: 700;
     cursor: pointer;
     transition: 0.3s;
@@ -106,6 +112,10 @@ body{
 
 .btn:hover{
     background-color:hsl(158, 58%, 18%) ;
+}
+
+.clear{
+    clear: both;
 }
 
 @media only screen and (max-width:628px){
@@ -141,17 +151,17 @@ body{
         padding-bottom: 16px;
     }
     .name{
-        font-size: 28px;
+        font-size: 2em;
     }
     .des{
-        font-size: 12px;
+        font-size: 1em;
     }
     .current-price{
-        font-size: 23px;
+        font-size: 2em;
     }
     .btn{
         padding: 9px 0;
-        font-size: 13px;
+        font-size: 1em;
     }
     
 }
