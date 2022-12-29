@@ -25,6 +25,7 @@ Users should be able to:
 
 ![](images/screenshot.PNG)
 
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/pnrmmt/frontendmentor-newbie1)
