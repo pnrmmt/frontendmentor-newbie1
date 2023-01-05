@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/pnrmmt/frontendmentor-newbie1)
-- Live Site URL: [Add live site URL here](https://pnrmmt.github.io/frontendmentor-newbie1/)
+- [Solution URL](https://github.com/pnrmmt/frontendmentor-newbie1)
+- [Live Site URL](https://pnrmmt.github.io/frontendmentor-newbie1/)
 
 ## My process
 
